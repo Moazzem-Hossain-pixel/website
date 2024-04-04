@@ -1,4 +1,4 @@
----
+edit---
 title: kubectl
 content_type: tool-reference
 weight: 30
